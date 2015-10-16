@@ -1,0 +1,24 @@
+
+h1, h2, h3, h4, h5{
+  color: $x-dGreen;
+}
+
+a{
+  //:visited{
+  //  color: $x-dGreen;
+  //}
+  .post-link{
+    text-decoration: none;
+  }
+  .site-title{
+    text-decoration: none;
+    :visited{
+      color: $x-dGreen;
+    }
+  }
+}
+
+.site-title{
+  color:$x-dGreen
+}
+

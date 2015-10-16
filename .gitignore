@@ -1,0 +1,8 @@
+_site
+.sass-cache
+_config.yml
+_site/*
+serve/*
+server/*
+*Thumbs.db
+.DS_Store
