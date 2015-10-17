@@ -12,6 +12,7 @@
   <div class="col-sm-8">
     <div class="main-body">
       {{ content }}
+      }
     </div>
   </div>
   <div class="col-sm-4">
@@ -23,7 +24,7 @@
 
 <!-- {% include footer.html %} -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="{{site.BASE_PATH}}scripts/script.js"></script>
+    <script src="{{ "scripts/script.js" | prepend: site.BASE_PATH }}"></script>
 
 </body>
 
