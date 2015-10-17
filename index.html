@@ -43,8 +43,6 @@ layout: default
     {{ post.description }}(<a href="{{ post.url }}" class="read-more-link">read more</a>)
     {% else %}
     {{ post.excerpt }}
-    <!-- Add a read more link if article has some length -->
-    {% if words > 180 %}(<a href="{{ post.url }}" class="read-more-link">read more</a>){% endif %}
     {% endif %}
     {% endif %}
   </div>

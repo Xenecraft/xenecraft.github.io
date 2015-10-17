@@ -5,18 +5,21 @@ $(document).ready(function(){
 	$('#xeneIp').append(xeneServer);
 });
 
-$.get('https://mcapi.us/server/status?ip='+xeneServer, function(response){
+$.get('http://craftapi.com/api/server/info/'+xeneServer, function(response){
 	console.log(response);
+	motd = response.motd;
+	playersOn = response.players.online;
+	playersMax = response.players.max;
+	$('#players').append(playersOn + '/' + playersMax);
+});
+
+$.get('https://mcapi.us/server/status?ip='+xeneServer, function(response){
 	if(!response.online){
 		lastOnline = response.last_online;
 		$('#server').append(' Offline').addClass('btn-danger');
 	}else
 		$('#server').append(' Online').addClass('btn-success');
-	motd = response.motd;
-	playersOn = response.players.now;
-	playersMax = response.players.max;
 	version = response.server.name;
-	$('#players').append(playersOn + '/' + playersMax);
 	$('#version').append(version);
 
 });
