@@ -17,6 +17,6 @@ $.get('https://mcapi.us/server/status?ip='+xeneServer, function(response){
 	playersMax = response.players.max;
 	version = response.server.name;
 	$('#players').append(playersOn + '/' + playersMax);
-	$('#players').append(version);
+	$('#version').append(version);
 
 });
