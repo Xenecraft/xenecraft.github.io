@@ -1,4 +1,5 @@
-var xeneServer = '176.31.16.76';
+// var xeneServer = '176.31.16.76';
+var xeneServer = 'play.xenecraft.com';
 var lastOnline, playersOn, playersMax, motd, version;
 
 $(document).ready(function(){

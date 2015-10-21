@@ -1,12 +1,12 @@
 
-h1, h2, h3, h4, h5{
+h1, h2, h4, h5{
   color: $x-dGreen;
+}
+h3{
+  color: $x-black;
 }
 
 a{
-  //:visited{
-  //  color: $x-dGreen;
-  //}
   .post-link{
     text-decoration: none;
   }

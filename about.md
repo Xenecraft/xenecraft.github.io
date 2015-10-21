@@ -11,6 +11,3 @@ permalink: /about/
 We host Server Exclusive Weekly/Bi-Weekly Events for our members fill with fun and chances to mine blocks that are usually hard to find.
 
 NOTE: IF YOU ARE JOINING US THE FIRST TIME. MENTION "<em>MCFORUM</em>" TO OUR ADMINS AND YOU GET AN IRON SET OF TOOLS AND SWORD TO START YOU OUT.
-<hr>
-<h5>CURRENTLY IN VERSION 1.8 VANILLA</h5>
-Server IP: 176.31.16.76:25565
