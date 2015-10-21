@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Donate
-permalink: /donate/
+title: Exchange and Donation
+permalink: /exchange-and-donation/
 ---
 
 Our team will not ask for any important personal information from you. Never give out your password or other important information to others! Feel free to inquire with our team if you're more curious about how these rewards work!

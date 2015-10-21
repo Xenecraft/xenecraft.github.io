@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: Meet the Team
+permalink: /meet-the-team/
 ---
 
 <h1 style="color:#4caf50;">Founders</h1>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Us
+permalink: /about-us/
 ---
 
 <b><span style="color:#4CAF50;">XeneCraft</span></b> is a community server with dedicated 24/7 access, 35 slots for players and their friends to hang out and have fun. Founded by a Teacher who believes in the passion of Creativity and Fun!
