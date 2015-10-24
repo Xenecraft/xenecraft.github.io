@@ -7,7 +7,8 @@ permalink: /exchange-and-donation/
 Our team will not ask for any important personal information from you. Never give out your password or any other important information to others! Feel free to inquire with our team if you're more curious about how these rewards work!
 
 <strong>Please note that you do not have to donate in order to receive these rewards. You can trade your own diamonds, as per the table below, in order to receive the same rewards.</strong>
-<table>
+
+<table class="table table-responsive">
 <tr id="row1">
 <td><strong>Exchange Amount:</strong></td>
 <td><strong>5<img src="https://xenecraft.files.wordpress.com/2015/07/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" />/ $1</strong></td>
@@ -72,6 +73,7 @@ Our team will not ask for any important personal information from you. Never giv
 <td></td>
 </tr>
 </table>
+
 <hr>
 <hr>
 <h2>Donation Instructions</h2>
