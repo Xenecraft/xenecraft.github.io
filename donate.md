@@ -74,6 +74,8 @@ Our team will not ask for any important personal information from you. Never giv
 </tr>
 </tbody>
 </table>
+<hr>
+<hr>
 <h2>Donation Instructions</h2>
 Please make sure you follow these instructions as to make sure that everything goes smoothly!
 <ol>
@@ -88,4 +90,4 @@ Please make sure you follow these instructions as to make sure that everything g
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=W5TDJXTPXNMUG" target="_blank">Paypal Donation Link</a>
 
-[googleapps domain="docs" dir="forms/d/10Q-aOJG-_4seGnPFAE6n_LvfNI6l9qmKLYe4FodqeEg/viewform" query="embedded=true" width="760" height="850" /]
+<iframe src="https://docs.google.com/forms/d/10Q-aOJG-_4seGnPFAE6n_LvfNI6l9qmKLYe4FodqeEg/viewform?embedded=true" width="760" height="860" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
