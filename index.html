@@ -4,11 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Recent Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><span class="post-meta">
     • <!-- Post Date(Above) | Reading Time(Below)-->
     {% assign words = post.content | number_of_words %}
@@ -18,10 +20,6 @@ layout: default
       {{ words | divided_by:180 }} mins read
     {% endif %}
   </span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
 
   <div>
     {% if post.fullview %}
