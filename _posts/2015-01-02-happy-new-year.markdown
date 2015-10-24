@@ -6,7 +6,9 @@ categories:
 tags: beta testers, craft, featured, minecraft, minecraft server, xenecraft
 ---
 Hello Crafters!
+
 <img src="/images/old welcome.png" alt="new years">
+
 Well another year has come and gone and what a year it has been!  A lot of things happened on our server in 2014.  Though not all of them were pleasant, I believe the good truly outweighed the bad.
 
 To date we have NINE beta testers and TWO regular admins.  Day and night they crafted, mined, adventured and SURVIVED.  Sure, there were some casualties here and there but we all know it's all part of the experience.  Our beta testers have shown us the capacity of our server, breaking it here and there.  And though we have reached a time where we feel we can start opening our doors, there's a nagging feeling that maybe we should hold out a little longer.  There are still some bugs that need to be figured out but none so bad that we can't handle it with some time (c'mon Spigot, we need that update!).

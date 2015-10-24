@@ -7,9 +7,9 @@ permalink: /meet-the-team/
 <h1>Founders</h1>
 <table>
 <tr>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/ead18484728ec1d0ee3365731ae79465957eb64b6e34b2dfcfd1cb17dcc2ce5c" /></td>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/2cf28b33796d412930707c924319b8e7ed4e455ef264228af1cc0d2846acb3f" /></td>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/d6b69fca970eea567ac7f53579a1624e346c18f7d12d16967799c1c9db143" /></td>
+	<td><img src="/images/team/pyroeyes.png" /></td>
+	<td><img src="/images/team/xenedragon.png" /></td>
+	<td><img src="/images/team/IpacificbeastI.png" /></td>
 </tr>
 <tr class="text-center">
 	<td>Pyroeyes</td>
@@ -21,8 +21,8 @@ permalink: /meet-the-team/
 <h2>Server Managers</h2>
 <table>
 <tr>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/a472529ff91526579f8452ec74160e2fd813a17bd6aef43e1e33ba2a45565" /></td>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/5fedf7d8e91fc71b8fcae4d43e8bf9bc296338dc05f1b473bb59b9cbabc85c9" /></td>
+	<td><img src="/images/team/ZaranR.png" /></td>
+	<td><img src="/images/team/ginagirlgfh.png" /></td>
 </tr>
 <tr class="text-center">
 	<td>ZaranR</td>
@@ -33,8 +33,8 @@ permalink: /meet-the-team/
 <h2>Redstone Engineers</h2>
 <table>
 <tr>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/56e2f911e2a3eb47fcd0820ca6d7dc44fc2444a444e6161e5ca7da725f31d" /></td>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/d314cfc570dee7cb7926236a2378b3a262d1a6564966b06c61d8ec9939a20" /></td>
+	<td><img src="/images/team/D1noSaws.png" /></td>
+	<td><img src="/images/team/PhoenixRising713.png" /></td>
 </tr>
 <tr class="text-center">
 	<td>D1noSaws</td>
@@ -45,8 +45,8 @@ permalink: /meet-the-team/
 <h2>Architects</h2>
 <table>
 <tr>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/abe5d99a824dfbdb70a1e5e8aa826f74c35af956438fd1a635fb3e37d553e" /></td>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/889b17b96356d727f87f1cc636bd99dbd033b07ffe2b4ef62dd7b1fb70a522" /></td>
+	<td><img src="/images/team/Jell0Cup.png" /></td>
+	<td><img src="/images/team/lightrapid3.png" /></td>
 </tr>
 <tr class="text-center">
 	<td>Jell0Cup aka Jello</td>
@@ -57,9 +57,9 @@ permalink: /meet-the-team/
 <h2>Moderators</h2>
 <table>
 <tr>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/1d4112972d1afc2fd55e9d2ec928823717cd499a9d2c5476f0657daab99818e1" /></td>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/3170e65dba2f3d54a49eb1ddc7dc37ee41937d51b817fd39deff21b7a261" /></td>
-	<td><img src="http://heads.freshcoal.com/3d/3d.php?user=http://textures.minecraft.net/texture/2ad2fda866df9a5e26c3988d3b267597ff23b53de3555e9a810b639d173b9" /></td>
+	<td><img src="/images/team/blade11220.png" /></td>
+	<td><img src="/images/team/Hydresius.png" /></td>
+	<td><img src="/images/team/Equinoxed.png" /></td>
 </tr>
 <tr class="text-center">
 	<td>blade11220</td>

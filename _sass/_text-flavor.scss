@@ -1,3 +1,10 @@
+//Set variables for easier reference
+$x-white: #F6FFF9;
+$x-lGreen: #00FF00;
+$x-silver: #DDDDDD;
+$x-black: #000;
+$x-dGreen: #00A72B;
+
 h1,
 h2,
 h4,
@@ -10,14 +17,10 @@ h3 {
 }
 
 a {
-    .post-link {
-        text-decoration: none;
-    }
-    .site-title {
-        text-decoration: none;
-        &:visited {
-            color: $x-dGreen;
-        }
+    text-decoration: none;
+    color: $x-dGreen;
+    &:visited{
+        color: $x-dGreen;
     }
 }
 
