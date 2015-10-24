@@ -8,7 +8,6 @@ Our team will not ask for any important personal information from you. Never giv
 
 <strong>Please note that you do not have to donate in order to receive these rewards. You can trade your own diamonds, as per the table below, in order to receive the same rewards.</strong>
 <table class="table">
-<tbody>
 <tr id="row1">
 <td><strong>Exchange Amount:</strong></td>
 <td><strong>5<img src="https://xenecraft.files.wordpress.com/2015/07/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" />/ $1</strong></td>
@@ -72,7 +71,6 @@ Our team will not ask for any important personal information from you. Never giv
 <td></td>
 <td></td>
 </tr>
-</tbody>
 </table>
 <hr>
 <hr>
