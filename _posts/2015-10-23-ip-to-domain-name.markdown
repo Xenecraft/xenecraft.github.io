@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mapping a Minecraft IP to a Domain Name"
+title:  "Mapping a Minecraft Server IP to a Domain Name"
 date:   2015-10-23 21:21:20
 categories: 
 tags: minecraft server, ip address, domain name, namecheap

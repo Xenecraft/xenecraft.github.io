@@ -25,7 +25,9 @@ a {
 }
 
 .site-title {
-    color: $x-dGreen
+    &:hover{
+        text-decoration: none;
+    }
 }
 
 .lightSig {
@@ -43,4 +45,8 @@ a {
 
 a.blackened{ 
     color: $x-black;
+}
+
+.squared{
+    list-style-type: square;
 }
