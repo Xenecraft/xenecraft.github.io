@@ -1,8 +1,10 @@
 Xenecraft
 =====
 
-Xenecraft website readme. Built using jekyll, hosted here on Github, domain to be purchased. 
-* RESTful API + Bootstrap/Jekyll + jQuery, Minecraft Assets, Spigot Server
+Xenecraft website readme. Built using jekyll, hosted here on Github
+* RESTful API + Bootstrap/Jekyll + jQuery + Minecraft Assets + Spigot Server Managing on Fluctis
+
+Check us out on [xenecraft.com](xenecraft.com) and play at our Minecraft server!
 
 Roadmap of Things for the Website:
 -----
