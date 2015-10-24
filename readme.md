@@ -6,16 +6,17 @@ Xenecraft website readme. Built using jekyll, hosted here on Github, domain to b
 
 Roadmap of Things for the Website:
 -----
-~~* Migrate Pages from Wordpress~~
-~~* Purchase Domain and Map It~~
-* Migrate images over to local
+* ~~Migrate Pages from Wordpress~~
+* ~~Purchase Domain and Map It~~
+* ~~Migrate images over to local~~
 * Style Individual Pages
-~~* Fix more posts~~
+* ~~Fix more posts~~
 * Style Header
 * Position Fixed: creeper
 * Appeals for Users
 * Hover over thing
-~~* Fix Google Docs Link~~
+* Calendar
+* ~~Fix Google Docs Link~~
 * Install JSON API to: 
 see who is on
 see what plugins installed

@@ -1,24 +1,39 @@
-
-h1, h2, h4, h5{
-  color: $x-dGreen;
+h1,
+h2,
+h4,
+h5 {
+    color: $x-dGreen;
 }
-h3{
-  color: $x-black;
+
+h3 {
+    color: $x-black;
 }
 
-a{
-  .post-link{
-    text-decoration: none;
-  }
-  .site-title{
-    text-decoration: none;
-    :visited{
-      color: $x-dGreen;
+a {
+    .post-link {
+        text-decoration: none;
     }
-  }
+    .site-title {
+        text-decoration: none;
+        &:visited {
+            color: $x-dGreen;
+        }
+    }
 }
 
-.site-title{
-  color:$x-dGreen
+.site-title {
+    color: $x-dGreen
 }
 
+.lightSig {
+    text-decoration: none;
+    color: #be0000;
+    &:visited {
+        text-decoration: none;
+        color: #be0000;
+    }
+    &:hover {
+        text-decoration: none;
+        color: #be0000;
+    }
+}
