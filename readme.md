@@ -11,7 +11,6 @@ Roadmap of Things for the Website:
 * ~~Migrate Pages from Wordpress~~
 * ~~Purchase Domain and Map It~~
 * ~~Migrate images over to local~~
-* Style More Individual Pages
 * ~~Fix more posts~~
 * Style Header
 * Position Fixed: creeper
@@ -20,6 +19,7 @@ Roadmap of Things for the Website:
 * ~~Calendar~~
 * ~~Fix Google Docs Link~~
 * Include a slideshow or something to display in server images
+* Update donations page to show what rewards are available more specifically
 * Install JSON API to: 
 see who is on
 see what plugins installed
