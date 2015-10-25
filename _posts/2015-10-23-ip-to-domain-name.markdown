@@ -7,11 +7,11 @@ tags: minecraft server, ip address, domain name, namecheap
 ---
 For those of you who want to allow others to connect to your Minecraft server more easily, instead of using a long IP Address, you can attach a domain name and let other players connect to your server much more easily!
 
-Ever since purchasing the Xenecraft domain name, I've been wondering how to put it more to use instead of just having it be a cool point for our website. It seems like a lot of the "top" servers out there all have their own domain names and they were all able to map their server IPs within their DNS, so why not have a try at it?
+Ever since purchasing the XeneCraft domain name, I've been wondering how to put it more to use instead of just having it be a cool point for our website. It seems like a lot of the "top" servers out there all have their own domain names and they were all able to map their server IPs within their DNS, so why not have a try at it?
 
 <img src="/images/domain-setup/Step 1.png" alt="Step 1">
 
-The whole process of mapping your server IP Address to your Domain Name is actually quite simple! Using your Registrar's DNS service, you can easily set it up with a simple "A Record!" For xenecraft, we use Namecheap, who has been a pretty cool service around the whole gaming community.
+The whole process of mapping your server IP Address to your Domain Name is actually quite simple! Using your Registrar's DNS service, you can easily set it up with a simple "A Record!" For XeneCraft, we use Namecheap, who has been a pretty cool service around the whole gaming community.
 
 <img src="/images/domain-setup/Step 2.png" alt="Step 2">
 
@@ -27,7 +27,7 @@ Now on your Host Records, it's simply a matter of adding a new record. You can s
 
 <img src="/images/domain-setup/Step 5.png" alt="Step 5">
 
-Now, all your players can simply put in whatever you host record you have that is prepended onto the domain name. For Xenecraft, you can use play.xenecraft.com to connect to our server and join the family! If you thought this quick post was helpful, give us a shoutout and let us know if you'd like to see more from the team! <br>
+Now, all your players can simply put in whatever you host record you have that is prepended onto the domain name. For XeneCraft, you can use play.xenecraft.com to connect to our server and join the family! If you thought this quick post was helpful, give us a shoutout and let us know if you'd like to see more from the team!<br>
 -<a href="http://twitter.com/ersgonzo" class="lightSig" target="_blank">light</a>
 <br>
 <img src="/images/domain-setup/Server Stuff.png" alt="Xenecraft Setting">

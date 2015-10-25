@@ -29,7 +29,12 @@ a {
         text-decoration: none;
     }
 }
-
+.squared{
+    list-style-type: square;
+}
+.nomargin{
+    margin-bottom: 5px;
+}
 .lightSig {
     text-decoration: none;
     color: #be0000;
@@ -46,7 +51,6 @@ a {
 a.blackened{ 
     color: $x-black;
 }
-
-.squared{
-    list-style-type: square;
+.greened{
+    color: $x-dGreen;
 }

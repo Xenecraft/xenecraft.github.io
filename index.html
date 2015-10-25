@@ -4,11 +4,10 @@ layout: default
 
 <div class="home">
 
-  <ul class="post-list">
+<ul class="post-list">
     {% for post in site.posts %}
-      <li>
-
-        <h2>
+    <li>
+        <h2 class="nomargin">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><span class="post-meta">
@@ -34,7 +33,6 @@ layout: default
     {% endif %}
     {% endif %}
   </div>
-
       </li>
     {% endfor %}
   </ul>

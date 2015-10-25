@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Getting Started on Xenecraft"
+title:  "Getting Started on XeneCraft"
 date:   2015-06-30 01:31:20
 categories: 
 tags: information, minecraft server
 ---
-For those of you who are stepping into a Minecraft world for the first time, things may seem difficult or overwhelming. For <span style="color:#4caf50;">Xenecraft</span>, you can jump straight into playing and do whatever you desire. For those who may need help setting up and getting started, this is the guide for you!
+For those of you who are stepping into a Minecraft world for the first time, things may seem difficult or overwhelming. For <span class="greened">XeneCraft</span>, you can jump straight into playing and do whatever you desire. For those who may need help setting up and getting started, this is the guide for you!
 <ol>
 <li>From the Minecraft start screen, click on the Multiplayer button and then click "Add Server."</li>
 <img src="/images/GS1.png" alt="Step 1">

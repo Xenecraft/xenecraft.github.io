@@ -1,4 +1,4 @@
-// var xeneServer = '176.31.16.76';
+// var xeneServer = '176.31.16.76'; //old server IP Address
 var xeneServer = 'play.xenecraft.com';
 var lastOnline, playersOn, playersMax, motd, version;
 
@@ -7,7 +7,6 @@ $(document).ready(function(){
 });
 
 $.get('http://craftapi.com/api/server/info/'+xeneServer, function(response){
-	console.log(response);
 	motd = response.motd;
 	playersOn = response.players.online;
 	playersMax = response.players.max;
@@ -22,5 +21,4 @@ $.get('https://mcapi.us/server/status?ip='+xeneServer, function(response){
 		$('#server').append(' Online').addClass('btn-success');
 	version = response.server.name;
 	$('#version').append(version);
-
 });
