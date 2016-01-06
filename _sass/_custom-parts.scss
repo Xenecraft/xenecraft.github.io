@@ -25,3 +25,14 @@ body{
 		bottom: -20%;
 	}
 }
+.img-limited{
+	max-height: 100px;
+}
+.img-center{
+	display: block;
+	margin: 0 auto;
+	vertical-align: middle;
+}
+.clickable{
+	cursor: pointer;
+}
