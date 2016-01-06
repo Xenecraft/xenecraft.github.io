@@ -44,7 +44,6 @@ if(window.location.pathname === '/exchange-and-donation/'){
 		stdJoined.push('<tr><td>'+(i+1)+'</td><td><strong>'+blockNameFilter(stdBlocks[i])+'</strong></td><td><img class="img-responsive img-limited img-center" src="/images/blocks/'+stdBlocks[i]+'.png"></td></tr>');
 	}
 	var stringTemplate = stdJoined.join('');
-	$('#stdHeader').after(stringTemplate);
 
 	for(var r = 0; r < rareBlocks.length; r++){
 		rareJoined.push('<tr><td>'+(r+1)+'</td><td><strong>'+blockNameFilter(rareBlocks[r])+'</strong></td><td><img class="img-responsive img-limited img-center" src="/images/blocks/'+rareBlocks[r]+'.png"></td></tr>');
