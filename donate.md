@@ -21,8 +21,7 @@ Our team will not ask for any important personal information from you. Never giv
 		<td><strong>Building Material/Rare Item</strong></td>
 		<td data-toggle="modal" data-target="#stdBlocks" class="clickable"><a>Stacks of Standard Building Blocks</a></td>
 		<td data-toggle="modal" data-target="#rareBlocks" class="clickable"><a>Stack of Rarer Building Material</a></td>
-		<!-- <td data-toggle="modal" data-target="#spawnEggs"><a>16 Name Tags and 2 Spawn Eggs of Choice</a></td> -->
-		<td>16 Name Tags and 2 Spawn Eggs of Choice</td>
+		<td data-toggle="modal" data-target="#spawnEggs" class="clickable"><a>16 Name Tags and 2 Spawn Eggs of Choice</a></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -30,7 +29,7 @@ Our team will not ask for any important personal information from you. Never giv
 		<td><strong>Mob</strong></td>
 		<td></td>
 		<td>Horse</td>
-		<!-- <td data-toggle="modal" data-target="#spawnEggs"><a>3 Spawn Egg for Overworld Mobs <em>only</em></a></td> -->
+		<td data-toggle="modal" data-target="#spawnEggs" class="clickable"><a>3 Spawn Egg for Overworld Mobs <em>only</em></a></td>
 		<td>3 Spawn Egg for Overworld Mobs <em>only</em></td>
 		<td>Custom Overworld Mob Spawner</td>
 		<td></td>
@@ -46,9 +45,9 @@ Our team will not ask for any important personal information from you. Never giv
 	<tr id="row5" class="success">
 		<td><strong>Armours and Enchants</strong></td>
 		<td></td>
-		<td>Enchanted Steel Armour (low level)</td>
+		<td>Enchanted Iron Armour (Low Level)</td>
 		<td>Choice of Enchanted Book</td>
-		<td>3 Pieces of Choice Max Enchant Tool/Armor</td>
+		<td>3 Pieces of Choice - Max Enchant Tool/Armor</td>
 		<td>Hyper Enchant</td>
 	</tr>
 	<tr id="row5.2">
@@ -155,7 +154,9 @@ Please make sure you follow these instructions as to make sure that everything g
         <h4 class="modal-title" id="myModalLabel">Spawn Eggs</h4>
       </div>
       <div class="modal-body">
-        Insert Table Here!
+        <table class="table table-responsive table-hover text-center">
+        <tr id='eggHeader'><td></td><td><strong>Mob</strong></td><td><strong>Egg</strong></td></tr>
+        </table>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -163,4 +164,4 @@ Please make sure you follow these instructions as to make sure that everything g
     </div>
   </div>
 </div>
-<!-- Standard Blocks Modal -->
+<!-- Eggs Modal -->
