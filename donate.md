@@ -30,7 +30,6 @@ Our team will not ask for any important personal information from you. Never giv
 		<td></td>
 		<td>Horse</td>
 		<td data-toggle="modal" data-target="#spawnEggs" class="clickable"><a>3 Spawn Egg for Overworld Mobs <em>only</em></a></td>
-		<td>3 Spawn Egg for Overworld Mobs <em>only</em></td>
 		<td>Custom Overworld Mob Spawner</td>
 		<td></td>
 	</tr>
