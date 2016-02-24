@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Exchange and Donation
-permalink: /exchange-and-donation/
+title: Exchange and Contribution
+titleShort: Exchange/Contribution
+permalink: /exchange-and-contributions/
 ---
 
 Our team will not ask for any important personal information from you. Never give out your password or any other important information to others! Feel free to inquire with our team if you're more curious about how these rewards work!
 
-<strong>Please note that you do not have to donate in order to receive these rewards. You can trade your own diamonds, as per the table below, in order to receive the same rewards.</strong>
+<strong>Please note that you do not have to contribute in order to receive these rewards. You can trade your own diamonds, as per the table below, in order to receive the same rewards.</strong>
 
 <table class="table table-responsive table-hover">
 	<tr id="row1" class="success">
@@ -84,19 +85,19 @@ Our team will not ask for any important personal information from you. Never giv
 </table>
 
 <br>
-<h2>Donation Instructions</h2>
+<h2>Contribution Instructions</h2>
 Please make sure you follow these instructions as to make sure that everything goes smoothly!
 <ol>
 <ol>
-	<li>Please click the Paypal donation link down below.</li>
-	<li>Choose the amount you would like to donate and fill out the information as desired.</li>
-	<li>After finishing with Paypal, please fill out the Donator's Form below to completely so we can double check.</li>
+	<li>Please click the Paypal contribution link down below.</li>
+	<li>Choose the amount you would like to contribute and fill out the information as desired.</li>
+	<li>After finishing with Paypal, please fill out the Contributor's Form below to completely so we can double check.</li>
 	<li>When you are done with the form, please be patient as our team will double check all the information and our moderator team will get to you!</li>
 </ol>
 </ol>
 <em>If you have any further questions or concerns, please contact us at Xenecraft@gmail.com!</em>
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=W5TDJXTPXNMUG" target="_blank">Paypal Donation Link</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=W5TDJXTPXNMUG" target="_blank">Paypal Contribution Link</a>
 
 <iframe src="https://docs.google.com/forms/d/10Q-aOJG-_4seGnPFAE6n_LvfNI6l9qmKLYe4FodqeEg/viewform?embedded=true" width="760" height="860" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 

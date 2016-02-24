@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+titleShort: About
 permalink: /about-us/
 ---
 

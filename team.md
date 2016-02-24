@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Meet the Team
-permalink: /meet-the-team/
+title: Meet our Team
+titleShort: Team
+permalink: /meet-our-team/
 ---
 
 <h1>Founders</h1>

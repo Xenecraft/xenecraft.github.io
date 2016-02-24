@@ -1,6 +1,7 @@
 ---
 layout: page
-title: General Information
+title: Tips and FAQs
+titleShort: Tips and FAQs
 permalink: /general-information/
 ---
 
