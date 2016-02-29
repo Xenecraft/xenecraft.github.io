@@ -6,14 +6,6 @@ var lastOnline, playersOn, playersMax, motd, version;
 
 $(document).ready(function(){
 	$.ajaxSetup({ cache: true });
-  // $.getScript('//connect.facebook.net/en_US/sdk.js', function(){
-  //   FB.init({
-  //     appId: fbAppID,
-  //     version: 'v2.5' // or v2.0, v2.1, v2.2, v2.3
-  //   });
-		// // FB.api('/'+xeneFBPageID+'/posts', function(response){
-		// // });
-  // });  
 	$('#xeneIp').append(xeneServer);
 });	
 
@@ -62,23 +54,3 @@ if(window.location.pathname === '/exchange-and-donation/'){
 	$('#rareHeader').after(rareTemplate);
 	$('#eggHeader').after(eggTemplate);
 }
-
-// $.get('http://craftapi.com/api/server/info/'+xeneServer, function(response){
-// 	motd = response.motd;
-// 	playersOn = response.players.online;
-// 	playersMax = response.players.max;
-// 	$('#players').append(playersOn + '/' + playersMax);
-// });
-
-// var j = new JSONAPI({
-// 	host: xeneServer,
-// 	port: '25565',
-// 	username: 'chatonly',
-// 	password: 'example'
-// });
-
-// j.call('getPlayerNames', console.log);
-
-// $.get(xeneServer+'/api/call?method=getPlayerLimit', function(response){
-// 	console.log(response);
-// });
