@@ -19,10 +19,14 @@ h3 {
 a {
     text-decoration: none;
     color: $x-dGreen;
+
     &:visited{
         color: $x-dGreen;
     }
 }
+a.btn:visited{
+        color: $x-white;
+    }
 
 .site-title {
     &:hover{

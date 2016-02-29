@@ -95,11 +95,11 @@ Please make sure you follow these instructions as to make sure that everything g
 	<li>When you are done with the form, please be patient as our team will double check all the information and our moderator team will get to you!</li>
 </ol>
 </ol>
-<em>If you have any further questions or concerns, please contact us at Xenecraft@gmail.com!</em>
+<em>If you have any further questions or concerns, please contact us at <a href="mailto:xenecraft@gmail.com">Xenecraft@gmail.com!</a></em>
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=W5TDJXTPXNMUG" target="_blank">Paypal Contribution Link</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=W5TDJXTPXNMUG" class="btn btn-success" target="_blank">Paypal Contribution Link</a>
 
-<iframe src="https://docs.google.com/forms/d/10Q-aOJG-_4seGnPFAE6n_LvfNI6l9qmKLYe4FodqeEg/viewform?embedded=true" width="760" height="860" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/10Q-aOJG-_4seGnPFAE6n_LvfNI6l9qmKLYe4FodqeEg/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <!-- Standard Blocks Modal -->
 <div class="modal fade" id="stdBlocks" tabindex="-1" role="dialog" aria-labelledby="StandardBlocksModal">
