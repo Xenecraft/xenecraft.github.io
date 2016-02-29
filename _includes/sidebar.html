@@ -1,22 +1,26 @@
-<h1>Server Info:</h1>
+<h2>Server Info:</h1>
 <table class="table">
 	<tr><td><strong>IP:</strong></td><td id="xeneIp"></td></tr>
 	<tr><td><strong>Version:</strong></td><td id="version"></td></tr>
 	<tr><td><strong>Players:</strong></td><td id="players"></td></tr>
 </table>
-<a id="server" class="btn">Currently:</a><br>
+<div class="text-center">
+	<a id="server" class="btn">Currently:</a><br>
+</div>
 
 <br>
-<a href="http://minecraftservers.org/server/247507" target="_blank"><img class="maxed-width"src="http://status.minecraftservers.org/classic/247507.png" alt="XeneCraft Minecraft server"/></a>
+<a href="http://minecraftservers.org/server/247507" target="_blank"><img class="maxed-width img-responsive" src="http://status.minecraftservers.org/classic/247507.png" alt="XeneCraft Minecraft server"/></a>
 
 <br><br>
-<h1>Recent Posts:</h1>
+<h2>Recent Posts:</h1>
 <ul class="squared">
 {% for post in site.posts %}
-<li><a class="blackened" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+	<li><a class="blackened" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 <br>
+
 <div class="fb-page maxed-width" data-href="https://www.facebook.com/xenecraft" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/xenecraft"><a href="https://www.facebook.com/xenecraft">XeneCraft</a></blockquote></div></div>
 <br><br>
-<a class="twitter-timeline"  href="https://twitter.com/XeneCraft" data-widget-id="615666936479916032">Tweets by @XeneCraft</a>
+
+<a class="twitter-timeline" href="https://twitter.com/XeneCraft" data-widget-id="615666936479916032">Tweets by @XeneCraft</a>

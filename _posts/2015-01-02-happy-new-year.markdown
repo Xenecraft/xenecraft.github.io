@@ -7,7 +7,7 @@ tags: beta testers, craft, featured, minecraft, minecraft server, xenecraft
 ---
 Hello Crafters!
 
-<img src="/images/old welcome.png" alt="new years">
+<img class="img-responsive" src="/images/old welcome.jpg" alt="new years">
 
 Well another year has come and gone and what a year it has been!  A lot of things happened on our server in 2014.  Though not all of them were pleasant, I believe the good truly outweighed the bad.
 
