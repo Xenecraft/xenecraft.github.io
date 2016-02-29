@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Report a Problem
-titleShort: Report a Problem
 permalink: /report-a-problem/
 ---
 

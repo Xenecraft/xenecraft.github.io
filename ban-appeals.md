@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ban Appeals
-titleShort: Ban Appeals
 permalink: /ban-appeals/
 ---
 
