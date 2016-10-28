@@ -8,12 +8,10 @@ Check us out on [xenecraft.com](http://xenecraft.com) and play at our Minecraft 
 
 Roadmap of Things for the Website:
 -----
-* Style Header
-* Position Fixed: creeper
-* Appeals for Users
+* Additional Styling of Header
+* Position Fixed: creeper at bottom
 * Hover over thing?
-* Include a slideshow or something to display in server images
-* Update donations page to show what rewards are available more specifically
+* Include a slideshow to display in server images
 * Install JSON API to: 
 see who is on
 see what plugins installed
@@ -26,3 +24,5 @@ Finished
 * ~~Fix more posts~~
 * ~~Calendar~~
 * ~~Fix Google Docs Link~~
+* ~~Update donations page to show what rewards are available more specifically~~
+* ~~Appeals for Users~~
