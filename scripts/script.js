@@ -27,6 +27,7 @@ $(document).ready(()=>{
 });
 
 $.get('https://mcapi.us/server/status?ip=' + xeneServer + '&port=' + xenePort, function(response) {
+    console.log(response);
     if (!response.online) {
         lastOnline = response.last_online;
         $('#server').append(' Offline').addClass('btn-danger');
