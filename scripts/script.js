@@ -3,31 +3,14 @@ var xeneIP = '176.31.16.76'; //old server IP Address
 var xenePort= '25985';
 var xeneServer = 'play.xenecraft.com';
 var xeneFBPageID = '328124197290784';
-var fbAppID = '1525071057809503';
 var lastOnline, playersOn, playersMax, motd, version;
 
 $(document).ready(()=>{
-
-    // //	`https://graph.facebook.com/oauth/access_token?client_id=APP_ID_HERE&client_secret=APP_SECRET_HERE&grant_type=fb_exchange_token&fb_exchange_token=ACCESS_TOKEN_HERE`
-    // var profile_id = "328124197290784";
-
-    // //App Info, needed for Auth
-    // var aid = "1525071057809503";
-    // var asc = "295f7ac57f6003da91a93d545b4b49f0";
-
-    // //Retrieve auth token
-    // $.get(`https://graph.facebook.com/oauth/access_token?grant_type=client_credentials&client_id=${aid}&client_secret=${asc}`, (response) => {
-    //     $.get(`https://graph.facebook.com/${profile_id}/feed?${response}`, (response) => {
-    //         console.log(response);
-    //     });
-    // });
-
     $.ajaxSetup({ cache: true });
     $('#xeneIp').append(xeneServer);
 });
 
 $.get('https://mcapi.us/server/status?ip=' + xeneServer + '&port=' + xenePort, function(response) {
-    console.log(response);
     if (!response.online) {
         lastOnline = response.last_online;
         $('#server').append(' Offline').addClass('btn-danger');
@@ -53,6 +36,9 @@ var blockNameFilter = function(blockName) {
 
 var exchangePageName = '/exchange-and-contributions/';
 if (window.location.pathname === exchangePageName) {
+    var diamondPlaceholder = '<div class=\'diamond-image\'></div>';
+    var diamondImage = '<img src="/images/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" />';
+    $(diamondPlaceholder).replaceWith(diamondImage);
     for (var i = 0; i < stdBlocks.length; i++) {
         stdJoined.push('<tr><td>' + (i + 1) + '</td><td><strong>' + blockNameFilter(stdBlocks[i]) + '</strong></td><td><img class="img-responsive img-limited img-center" src="/images/blocks/' + stdBlocks[i] + '.png"></td></tr>');
     }
