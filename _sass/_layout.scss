@@ -36,7 +36,7 @@
         line-height: $base-line-height;
         font-weight: 500;
         // Gaps between nav items, but not on the first one
-        &:not(: first-child) {
+        &:not(:first-child) {
             margin-left: 20px;
         }
     }
