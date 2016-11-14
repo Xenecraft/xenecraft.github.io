@@ -51,7 +51,8 @@ var blockNameFilter = function(blockName) {
     return blockName.replace(/_/g, ' ');
 };
 
-if (window.location.pathname === '/exchange-and-donation/') {
+var exchangePageName = '/exchange-and-contributions/';
+if (window.location.pathname === exchangePageName) {
     for (var i = 0; i < stdBlocks.length; i++) {
         stdJoined.push('<tr><td>' + (i + 1) + '</td><td><strong>' + blockNameFilter(stdBlocks[i]) + '</strong></td><td><img class="img-responsive img-limited img-center" src="/images/blocks/' + stdBlocks[i] + '.png"></td></tr>');
     }
