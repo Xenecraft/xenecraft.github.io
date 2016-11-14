@@ -13,11 +13,11 @@ Our team will not ask for any important personal information from you. Never giv
 	<table class="table table-hover table-bordered">
 		<tr id="row1" class="success">
 			<th>Exchange Amount:</th>
-			<th>1<img src="/images/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" /></th>
-			<th>5<img src="/images/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" />/ $1</th>
-			<th>25<img src="/images/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" />/ $5</th>
-			<th>50<img src="/images/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" /> / $10</th>
-			<th>125<img src="/images/grid_diamond.png" alt="Grid_Diamond" width="32" height="32" /> / $25</th>
+			<th>1<div class='diamond-image'></div></th>
+			<th>5<div class='diamond-image'></div>/ $1</th>
+			<th>25<div class='diamond-image'></div>/ $5</th>
+			<th>50<div class='diamond-image'></div> / $10</th>
+			<th>125<div class='diamond-image'></div> / $25</th>
 		</tr>
 		<tr id="row2">
 			<td><strong>Building Material/Rare Item</strong></td>
