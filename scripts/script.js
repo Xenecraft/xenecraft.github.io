@@ -55,4 +55,10 @@ if (window.location.pathname === exchangePageName) {
   $('#stdHeader').after(standardTemplate);
   $('#rareHeader').after(rareTemplate);
   $('#eggHeader').after(eggTemplate);
+
+  $('#contrib').click(() => {
+    var doContribute = confirm('Are you sure you want to contribute? You can opt to trade in Diamonds instead!');
+    if (doContribute)
+      window.open('https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W5TDJXTPXNMUG', '_blank');
+  });
 }

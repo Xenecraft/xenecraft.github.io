@@ -41,3 +41,14 @@ header.site-header{
 	background-color: black;
 	border-color: $x-black !important;
 }
+
+.sidebar-main{
+	margin-top: 6vh;
+	overflow-x: hidden;
+}
+
+@media (min-width: 768px){
+	.sidebar{
+		border-left: $x-black solid 1px;
+	}
+}

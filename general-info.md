@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Additional Information
-titleShort: More Info
+title: Useful Information
+titleShort: Info
 permalink: /info/
 ---
 
 <img class="img-thumbnail" src="http://static.planetminecraft.com/files/resource_media/screenshot/1218/Da-Rules_2185427.jpg" style="left:auto;right:auto;" />
-<h3 id="rules"><u>Server Rules</u></h3>
+<h2 id="rules"><u>Server Rules</u></h2>
 <ol>
 <li>Be polite to everyone</li>
 <li>No stealing or griefing</li>
@@ -17,7 +17,7 @@ permalink: /info/
 <li>Happy Mining!</li>
 </ol>
 
-<h3 id="commands"><u>Helpful Commands</u></h3>
+<h2 id="commands"><u>Helpful Commands</u></h2>
 To make your crafting life easier, we've implemented these commands! Explore more of the world and keep your home safe!
 <ul>
 <li><em>/sethome or /home </em>- to set your home without using a bed</li>
@@ -25,7 +25,7 @@ To make your crafting life easier, we've implemented these commands! Explore mor
 <li><em>/spawn</em> - teleport back to spawn</li>
 </ul>
 
-<h3 id="claims"><u>Land Claims</u></h3>
+<h2 id="claims"><u>Land Claims</u></h2>
 Want to protect your land from griefers? Check out <a href="https://www.youtube.com/watch?v=VDsjXB-BaE0&amp;index=4&amp;list=PL6diNfcl9_VyPiXE8AKQeB6pMshusqhzR">this Youtube video</a> for more information on the feature implemented into our server! It may be wonky at first, but if you're having trouble, feel free to ask one of our moderators!
 
 <u>Grief Prevention Commands</u>
