@@ -21,7 +21,7 @@
         color: $grey-color-dark;
     }
     @include media-query($on-palm) {
-        letter-spacing: 4px;
+        letter-spacing: 2px;
     }
 }
 

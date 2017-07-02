@@ -8,8 +8,9 @@ permalink: /about-us/
 <b><span style="color:#4CAF50;">XeneCraft</span></b> is a community server with:
 <ul>
 	<li>Dedicated 24/7 access</li>
-	<li>35 slots for players and their friends to hang out and have fun</li>
-	<li>Monthly events for our members fill with fun and chances to mine blocks that are usually hard to find.</li>
+	<li>Many slots for players and their friends to hang out and have fun</li>
+	<li>Events for our members fill with fun and chances to mine blocks that are usually hard to find.</li>
+	<li>Protection against Griefing for our players to showcase and share their work</li>
 </ul>
 Founded by a Teacher who believes in the passion of creativity and fun!
 

@@ -36,3 +36,8 @@ body{
 .clickable{
 	cursor: pointer;
 }
+
+header.site-header{
+	background-color: black;
+	border-color: $x-black !important;
+}

@@ -8,7 +8,6 @@ Check us out on [xenecraft.com](http://xenecraft.com) and play at our Minecraft 
 
 Roadmap of Things for the Website:
 -----
-* Additional Styling of Header
 * Position Fixed: creeper at bottom
 * Hover over thing?
 * Include a slideshow to display in server images
@@ -26,3 +25,4 @@ Finished
 * ~~Fix Google Docs Link~~
 * ~~Update donations page to show what rewards are available more specifically~~
 * ~~Appeals for Users~~
+* ~~Additional Styling of Header~~

@@ -4,57 +4,80 @@ $x-lGreen: #00FF00;
 $x-silver: #DDDDDD;
 $x-black: #000;
 $x-dGreen: #00A72B;
-
 h1,
 h2,
 h4,
 h5 {
-    color: $x-dGreen;
+  color: $x-dGreen;
 }
 
 h3 {
-    color: $x-black;
+  color: $x-black;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
+  color: $x-dGreen;
+  &:visited {
     color: $x-dGreen;
-
-    &:visited{
-        color: $x-dGreen;
-    }
+  }
 }
-a.btn:visited{
-        color: $x-white;
-    }
+
+a.btn:visited {
+  color: $x-white;
+}
 
 .site-title {
-    &:hover{
-        text-decoration: none;
-    }
-}
-.squared{
-    list-style-type: square;
-}
-.nomargin{
-    margin-bottom: 5px;
-}
-.lightSig {
+  &:hover {
     text-decoration: none;
-    color: #be0000;
-    &:visited {
-        text-decoration: none;
-        color: #be0000;
-    }
-    &:hover {
-        text-decoration: none;
-        color: #be0000;
-    }
+  }
 }
 
-a.blackened{ 
-    color: $x-black;
+.squared {
+  list-style-type: square;
 }
-.greened{
-    color: $x-dGreen;
+
+.nomargin {
+  margin-bottom: 5px;
+}
+
+.lightSig {
+  text-decoration: none;
+  color: #be0000;
+  &:visited {
+    text-decoration: none;
+    color: #be0000;
+  }
+  &:hover {
+    text-decoration: none;
+    color: #be0000;
+  }
+}
+
+a.blackened {
+  color: $x-black;
+}
+
+.greened {
+  color: $x-dGreen;
+}
+
+header div a.site-title {
+  color: $x-white !important;
+}
+
+@media(min-width: 601px) {
+  nav a {
+    color: $x-white !important;
+  }
+}
+
+@media (max-width: 600px) {
+  nav a {
+    color: $x-black !important;
+  }
+}
+
+.diamond-image {
+  content: url(../images/grid_diamond.png);
 }
