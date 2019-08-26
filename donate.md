@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Exchanges and Contributions
-titleShort: Exchanges
+title: Exchange and Contribution
+titleShort: Exchange
 permalink: /exchange-and-contributions/
 ---
 
 Our team will not ask for any important personal information from you. Never give out your password or any other important information to others! Feel free to inquire with our team if you're more curious about how these rewards work!
 
-<strong>Please note that you do not have to contribute in order to receive these rewards. You can trade your own diamonds, as per the table below, in order to receive the same rewards.</strong>
+<span class="lightSig"><strong>Note that we have removed any ability to donate to the server. Previously before, we had reiled upon donations but currently, we are running fairly smoothly due to the team having a more consistent income. This page has not been updated in awhile due to the numerous new blocks and mechanics that have been added to the mainline verison of the game. If you would like to do something for the server, please reach out to us and give us a suggestion!</strong></span>
+
+<strong>Please note that you do NOT have to contribute in order to receive these rewards. You can trade your own diamonds, as per the table below, in order to receive the same rewards.</strong>
 
 <div class="table-responsive">
 	<table class="table table-hover table-bordered">
@@ -87,6 +89,7 @@ Our team will not ask for any important personal information from you. Never giv
 </div>
 
 <br>
+<div class="strikethrough">
 <h2>Contribution Instructions</h2>
 Please make sure you follow these instructions as to make sure that everything goes smoothly!
 <ol>
@@ -98,10 +101,11 @@ Please make sure you follow these instructions as to make sure that everything g
 </ol>
 </ol>
 <em>If you have any further questions or concerns, please contact us at <a href="mailto:xenecraft@gmail.com">xenecraft@gmail.com</a> or message us directly on other Social Media!</em>
+</div>
 
-<a id="contrib" class="btn btn-success" target="_blank" rel="noopener noreferrer">Paypal Contribution Link</a>
-
-<iframe src="https://docs.google.com/forms/d/10Q-aOJG-_4seGnPFAE6n_LvfNI6l9qmKLYe4FodqeEg/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<!-- <a id="contrib" class="btn btn-success" target="_blank" rel="noopener noreferrer">Paypal Contribution Link</a>
+ -->
+<!-- <iframe src="https://docs.google.com/forms/d/10Q-aOJG-_4seGnPFAE6n_LvfNI6l9qmKLYe4FodqeEg/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
 
 <!-- Standard Blocks Modal -->
 <div class="modal fade" id="stdBlocks" tabindex="-1" role="dialog" aria-labelledby="StandardBlocksModal">
