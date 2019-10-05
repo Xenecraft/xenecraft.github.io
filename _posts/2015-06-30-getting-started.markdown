@@ -5,6 +5,8 @@ date:   2015-06-30 01:31:20
 categories: 
 tags: information, minecraft server
 ---
+<strong>UPDATE: Please note that this article is now about 4 years old, we have moved to a new spawnpoint in the world and the screenshots will be different than before! The steps to connect are still the same!</strong>
+
 For those of you who are stepping into a Minecraft world for the first time, things may seem difficult or overwhelming. For <span class="greened">XeneCraft</span>, you can jump straight into playing and do whatever you desire. For those who may need help setting up and getting started, this is the guide for you!
 <ol>
 <li>From the Minecraft start screen, click on the Multiplayer button and then click "Add Server."</li>
