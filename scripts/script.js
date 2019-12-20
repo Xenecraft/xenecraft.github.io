@@ -1,6 +1,5 @@
 'use strict';
-var xeneIP = '176.31.16.76'; //old server IP Address
-var xenePort = '25985';
+var xenePort = '25565';
 var xeneServer = 'play.xenecraft.com';
 var xeneFBPageID = '328124197290784';
 var lastOnline, playersOn, playersMax, motd, version;
