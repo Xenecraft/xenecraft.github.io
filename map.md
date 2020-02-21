@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xenecraft World Map
+title: Server World Map
 titleShort: Map
 permalink: /xenecraft-world-map/
 ---

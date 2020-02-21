@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="/images/Xenecraft Profile Transparent.png" class="navved" alt="xenecraft logo">XeneCraft</a>
+    <a class="site-title closer-header-left" href="{{ site.baseurl }}/"><img src="/images/Xenecraft Profile Transparent.png" class="navved" alt="xenecraft logo">XeneCraft</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -13,7 +13,7 @@
         </svg>
       </a>
 
-      <div class="trigger pull-right">
+      <div class="trigger pull-right closer-header-right">
         {% for page in site.pages %}
           {% if page.titleShort %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.titleShort }}</a>

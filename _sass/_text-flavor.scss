@@ -53,7 +53,9 @@ a.btn:visited {
     color: #be0000;
   }
 }
-
+.strikethrough{
+  text-decoration: line-through;
+}
 a.blackened {
   color: $x-black;
 }

@@ -5,8 +5,10 @@ titleShort: Contact
 permalink: /contact-us/
 ---
 
-The Xenecraft team continously strives to improve the server and your experience playing Minecraft with us!<br>
-Feel free to contact us by any of the means listed below:
+The Xenecraft team strives to improve the server and your experience playing Minecraft!<br>
+Note that we are no longer as active on the social media accounts as before, but we do take a look!
+
+Feel free to contact us via any of the means listed below:
 
 <table class="table table-striped">
 	<tr>
@@ -28,5 +30,9 @@ Feel free to contact us by any of the means listed below:
 	<tr>
 		<td><strong>Light's Twitter:</strong></td>
 		<td><a href="https://twitter.com/ersgonzo">@ersgonzo</a></td>
+	</tr>
+	<tr>
+		<td><strong>Discord:</strong></td>
+		<td>Ask a Friend!</td>
 	</tr>
 </table>
