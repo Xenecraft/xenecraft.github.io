@@ -8,15 +8,16 @@ Check us out on [xenecraft.com](http://xenecraft.com) and play at our Minecraft 
 
 Roadmap of Things for the Website:
 -----
-* Position Fixed: creeper at bottom
+* Redesign in better view
+* Better font face for proper seeming website
+* Better element positioning
+* Responsiveness?
+* Position Fixed: creeper at bottom?
 * Hover over thing?
-* Include a slideshow to display in server images
-* Install JSON API to: 
-see who is on
-see what plugins installed
 
 Finished
 -----
+* ~~Include a slideshow to display in server images~~
 * ~~Migrate Pages from Wordpress~~
 * ~~Purchase Domain and Map It~~
 * ~~Migrate images over to local~~
@@ -26,3 +27,9 @@ Finished
 * ~~Update donations page to show what rewards are available more specifically~~
 * ~~Appeals for Users~~
 * ~~Additional Styling of Header~~
+
+Canceled
+-----
+* Taken care of by Discord bot: ~~Install JSON API to: ~~
+~~see who is on~~
+~~see what plugins installed~~
