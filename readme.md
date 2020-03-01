@@ -4,7 +4,7 @@ XeneCraft
 XeneCraft website readme. Built using jekyll, hosted here on Github
 * RESTful API + Bootstrap/Jekyll + jQuery + Minecraft Assets + Paper/Spigot Server on DedicatedMC
 
-Check us out on [xenecraft.com](http://xenecraft.com) and play at our Minecraft server!
+Check us out on [xenecraft.com](xenecraft.com) and play at our Minecraft server!
 
 Roadmap of Things for the Website:
 -----

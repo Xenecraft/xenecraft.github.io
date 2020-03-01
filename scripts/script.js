@@ -55,9 +55,10 @@ if (window.location.pathname === exchangePageName) {
   $('#rareHeader').after(rareTemplate);
   $('#eggHeader').after(eggTemplate);
 
-  $('#contrib').click(() => {
-    var doContribute = confirm('Are you sure you want to contribute? You can opt to trade in Diamonds instead!');
-    if (doContribute)
-      window.open('https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W5TDJXTPXNMUG', '_blank');
-  });
+  // Note: This section will prevent users from going to donate now. Not necessary as we are capable of self funding!
+  // $('#contrib').click(() => {
+  //   var doContribute = confirm('Are you sure you want to contribute? You can opt to trade in Diamonds instead!');
+  //   if (doContribute)
+  //     window.open('https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W5TDJXTPXNMUG', '_blank');
+  // });
 }
