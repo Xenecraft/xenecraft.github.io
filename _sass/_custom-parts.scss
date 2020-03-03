@@ -81,3 +81,40 @@ header.site-header{
 .strikethrough{
 	  text-decoration: line-through;
 }
+
+/*** Posts Styling ***/
+.site-nav{
+	.page-link{
+		font-size: 18px;
+	}
+}
+
+.half-size{
+	max-height: 49%; 
+	max-width: 49%;
+}
+
+.modal-fitted{
+	width: 90%;
+}
+
+.two-space{
+	padding-left: 2px;
+}
+
+/*** Team Page ***/
+.player-table{
+	th{
+		color: $x-dGreen;
+		font-weight: 300;
+		margin-bottom: 15px;
+		margin-top: 10px;
+		font-size: 36px;
+	}
+	img{
+		padding: 0px 15px 0px 15px;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+}

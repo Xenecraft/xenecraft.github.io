@@ -4,6 +4,7 @@ $x-lGreen: #00FF00;
 $x-silver: #DDDDDD;
 $x-black: #000;
 $x-dGreen: #00A72B;
+
 h1,
 h2,
 h4,
@@ -18,6 +19,7 @@ h3 {
 a {
   text-decoration: none;
   color: $x-dGreen;
+
   &:visited {
     color: $x-dGreen;
   }
@@ -44,18 +46,22 @@ a.btn:visited {
 .lightSig {
   text-decoration: none;
   color: #be0000;
+
   &:visited {
     text-decoration: none;
     color: #be0000;
   }
+
   &:hover {
     text-decoration: none;
     color: #be0000;
   }
 }
-.strikethrough{
+
+.strikethrough {
   text-decoration: line-through;
 }
+
 a.blackened {
   color: $x-black;
 }

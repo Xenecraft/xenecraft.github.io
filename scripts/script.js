@@ -7,6 +7,12 @@ var lastOnline, playersOn, playersMax, motd, version;
 $(document).ready(() => {
   $.ajaxSetup({ cache: true });
   $('#xeneIp').append(xeneServer);
+
+  // Modal Popups!
+  $('[data-target="#post-display-modal"]').on("click", function(item){
+    let imageToModal = $(item.target).attr('src');
+    $('#post-image').attr('src', imageToModal);
+  });
 });
 
 $.get('https://mcapi.us/server/status?ip=' + xeneServer + '&port=' + xenePort, function(response) {

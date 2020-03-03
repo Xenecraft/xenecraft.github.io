@@ -8,7 +8,18 @@ tags: minecraft, xenecraft, website
 Heya Xeney-Crafters and Visitors!
 <br>
 I've just deployed a better restyling of the site. In my own personal taste, this was overdue for the longest while and relevant information is present to you, the viewer! More content fills the page as desires and more of the redundant and extraneous pages have been removed or relocated. 
-<br><br>
+<br>
+<table>
+  <tr>
+<td data-toggle="modal" data-target="#post-display-modal" class="clickable"><img src="/images/redesign-OldXenecraft.png" style="margin-top: -3px;"></td>
+<td data-toggle="modal" data-target="#post-display-modal" class="clickable two-space"><img src="/images/redesign-NewXenecraft.png"></td>
+</tr>
+<tr class="text-center">
+  <td><strong>Old</strong></td>
+  <td><strong>New</strong></td>
+</tr>
+</table>
+<br>
 Speaking in regards to the Minecraft Server itself, we will try and keep up to date with the latests and most stable versions of Minecraft that are release. Note that because our server is running on a Paper Client which also relies upon Spigot, we will not always be able to update to the most immediate verson should Mojang make any large releases. I do follow the release announcements and feature changes and so I'm keeping my eye on the progression of version 1.16. However, you can always check the Server Information with our Discord bot or on the right side panel.
 <br>
 -<span class="lightSig">light</span>
