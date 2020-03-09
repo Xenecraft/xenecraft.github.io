@@ -22,11 +22,19 @@ body{
 
 /*** 	Body Styling	 ***/
 .main-body{
-	padding:6em 5% 10% 10%;
+	padding:7vh 1% 10% 10%;
+	@media (max-width: $sm){
+		padding:6vh 1% 10% 1%;
+	}	
+}
+.sidebar-main{
+	margin-top: 5vh;
+	overflow-x: hidden;
 }
 .sidebar{
-	padding:10% 10% 10% 5%;
+	padding:9% 9% 9% 4%;
 }
+
 .maxed-width{
 	width: 100%;
 }
@@ -46,6 +54,46 @@ body{
 		bottom: -20%;
 	}
 }
+
+// Main Landing Area on Front Page
+#landing-block{
+	min-height: 85vh;
+	margin-bottom: 2%;
+	display: flex;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+	img{
+		filter: brightness(0.2);
+		transition: all 2s ease;
+		min-height: 85vh;
+		display: inline-flex;
+		position: relative;
+		&:hover{
+			filter: brightness(0.4);
+		}
+	}
+	
+}
+
+#landing-info{
+	display: inherit;
+	align-self: center;
+	position: absolute;
+	@media (min-width: $md){
+		max-width: 40%;
+	}
+	&:nth-child(n){
+		display:block !important
+	}
+	.landing-buttons.btn:nth-child(n){
+		margin-right: 50px;
+	}
+	@media (max-width: $sm){
+		padding:8%;
+	}	
+}
+
 /*** 	Smaller Media	 ***/
 .img-limited{
 	max-height: 100px;
@@ -62,11 +110,6 @@ body{
 header.site-header{
 	background-color: black;
 	border-color: $x-black !important;
-}
-
-.sidebar-main{
-	margin-top: 6vh;
-	overflow-x: hidden;
 }
 
 @media (min-width: $sm){
@@ -116,5 +159,13 @@ header.site-header{
 		margin-left: auto;
 		margin-right: auto;
 		display: block;
+	}
+}
+
+/*** Responsive Display ***/
+.showSm{
+	display: none;
+	@media (max-width: $sm){
+		display: inline;
 	}
 }

@@ -13,6 +13,12 @@ Roadmap of Things for the Website:
 
 Changelog
 -----
+### 2020.03.09 
+* Added a landing area with CTA for new players to do
+* Added an updated joining guide
+* Archives area for really old pages (note to future me: change a thing in the config.yml and create associated directory to recognize it)
+* Some responsiveness redesign (especially on mobile)
+
 ### 2020.02.20 
 * Much better font face for proper seeming website
 * Moved some content upwards to fill space better

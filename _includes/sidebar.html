@@ -1,6 +1,6 @@
 <h2>Server Info:</h2>
 <table class="table">
-	<tr><td><strong>IP:</strong></td><td id="xeneIp"></td></tr>
+	<tr><td><strong>IP:</strong></td><td class="xeneIp"></td></tr>
 	<tr><td><strong>Version:</strong></td><td id="version"></td></tr>
 	<tr><td><strong>Players:</strong></td><td id="players"></td></tr>
 	<tr><td><strong>Whitelist:</strong></td><td class="greened">ON</td></tr>
@@ -25,3 +25,12 @@
 <br><br>
 
 <a class="twitter-timeline" href="https://twitter.com/XeneCraft?ref_src=twsrc%5Etfw">Tweets by XeneCraft</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<br><br>
+<h2>Archived:</h1>
+<ul class="squared">
+{% for archive in site.archives %}
+  <li><a class="blackened" href="{{ archive.url | prepend: site.baseurl }}">{{ archive.title }}</a></li>
+{% endfor %}
+</ul>
+<br>

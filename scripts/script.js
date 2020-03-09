@@ -4,17 +4,20 @@ var xeneServer = 'play.xenecraft.com';
 var xeneFBPageID = '328124197290784';
 var lastOnline, playersOn, playersMax, motd, version;
 
+// Main Pages anywhere
 $(document).ready(() => {
   $.ajaxSetup({ cache: true });
-  $('#xeneIp').append(xeneServer);
+  $('.xeneIp').append(xeneServer);
 
   // Modal Popups!
   $('[data-target="#post-display-modal"]').on("click", function(item){
     let imageToModal = $(item.target).attr('src');
     $('#post-image').attr('src', imageToModal);
   });
+
 });
 
+// Populate the Sidebar with current Server Status
 $.get('https://mcapi.us/server/status?ip=' + xeneServer + '&port=' + xenePort, function(response) {
   if (!response.online) {
     lastOnline = response.last_online;
@@ -26,8 +29,11 @@ $.get('https://mcapi.us/server/status?ip=' + xeneServer + '&port=' + xenePort, f
   playersOn = response.players.now;
   playersMax = response.players.max;
   $('#players').append(playersOn + '/' + playersMax);
+  $('.xeneMotd').append(response.motd);
+
 });
 
+// Other Pages
 var stdBlocks = ['Stone', 'Grass', 'Dirt', 'Sand', 'Gravel', 'Wood', 'Acacia_Wood', 'Birch_Wood', 'Dark_Oak_Wood', 'Jungle_Wood', 'Spruce_Wood', 'Snow', 'Cactus', 'Netherrack', 'Wool'];
 var stdJoined = [];
 var rareBlocks = ['Clay', 'Soul_Sand', 'Glowstone', 'Moss_Stone', 'Sponge'];
