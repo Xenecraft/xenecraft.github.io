@@ -1,0 +1,16 @@
+# Site settings
+title: Xenecraft
+email: xenecraft@gmail.com
+description: A friendly small community Minecraft Server.
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://localhost:4000/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
+twitter_username: Xenecraft
+github_username:  ErSGonzalo
+BASE_PATH: "https://xenecraft.com/"
+
+# Build settings
+markdown: kramdown
+collections:
+  archives:
+    output: true
