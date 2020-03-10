@@ -5,8 +5,8 @@ titleShort: Contact
 permalink: /contact-us/
 ---
 
-The Xenecraft team strives to improve the server and your experience playing Minecraft!<br>
-Note that we are no longer as active on the social media accounts as before, but we do take a look!
+The Xenecraft Team strives to improve the server and your experience playing Minecraft!<br>
+<strong>Note that the team is no longer as active on the social media accounts as before so expect a potentially longer response time.</strong>
 
 Feel free to contact us via any of the means listed below:
 

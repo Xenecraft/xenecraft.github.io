@@ -22,6 +22,18 @@ Contact one of the Admins of the server or make a reference via a friend of the 
 
 <span class="strikethrough">NOTE: IF YOU ARE JOINING US THE FIRST TIME. MENTION "<em>MCFORUM</em>" TO OUR ADMINS AND YOU GET AN IRON SET OF TOOLS AND SWORD TO START YOU OUT.</span>
 
+<img class="img-thumbnail" src="http://static.planetminecraft.com/files/resource_media/screenshot/1218/Da-Rules_2185427.jpg" style="left:auto;right:auto;" />
+<h2 id="rules">Server Rules</h2>
+<ol>
+<li>Be polite to everyone</li>
+<li>No stealing or griefing</li>
+<li>Do not spam or advertise</li>
+<li>Listen to Moderators. No begging at all, but trades are welcome!</li>
+<li>Any bad behaviour will lead to a kick or ban</li>
+<li>If warped back to spawn, ask a moderator nicely for help</li>
+<li>Happy Mining!</li>
+</ol>
+
 <h2 id="commands">Helpful Commands</h2>
 To make your crafting life easier, we've implemented these commands! Explore more of the world and keep your home safe!
 <ul>
@@ -44,16 +56,4 @@ Want to protect your land from griefers? Check out <a href="https://www.youtube.
 <li>/trustlist</li>
 </ul>
 
-<img class="img-thumbnail" src="http://static.planetminecraft.com/files/resource_media/screenshot/1218/Da-Rules_2185427.jpg" style="left:auto;right:auto;" />
-<h2 id="rules">Server Rules</h2>
-<ol>
-<li>Be polite to everyone</li>
-<li>No stealing or griefing</li>
-<li>Do not spam or advertise</li>
-<li>Listen to Moderators. No begging at all, but trades are welcome!</li>
-<li>Any bad behaviour will lead to a kick or ban</li>
-<li>If warped back to spawn, ask a moderator nicely for help</li>
-<li>Happy Mining!</li>
-</ol>
-
-Looking for an old page? There are some deprecated pages that are no longer used at the very bottom of the sidebar.
+Looking for an older page? There are some archived pages that are no longer under the posts section on the sidebar!
