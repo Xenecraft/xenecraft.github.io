@@ -11,6 +11,7 @@ permalink: /about-us/
 	<li>Many slots for players and their friends to hang out and have fun</li>
 	<li>Events for our members fill with fun and chances to mine blocks that are usually hard to find.</li>
 	<li>Protection against Griefing for our players to showcase and share their work</li>
+  <li>Backups every week in case of any potential issues that may arise with bugs, the client, etc</li>
 </ul>
 Founded by a Teacher who believes in the passion of creativity and fun!
 
@@ -54,3 +55,5 @@ Want to protect your land from griefers? Check out <a href="https://www.youtube.
 <li>If warped back to spawn, ask a moderator nicely for help</li>
 <li>Happy Mining!</li>
 </ol>
+
+Looking for an old page? There are some deprecated pages that are no longer used at the very bottom of the sidebar.

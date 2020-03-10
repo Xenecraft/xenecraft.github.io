@@ -7,7 +7,7 @@ permalink: /joining-the-server/
 
 For access to the Xenecraft Multiplayer World, contact one of the Admins of the server or make a reference via a friend of the admins! For the safety of our members, we have the whitelist turned on (this way there is a much lower chance of griefing).
 
-For those of you who are stepping into a Minecraft world for the first time, things may seem difficult or overwhelming. For <span class="greened">XeneCraft</span>, you can jump straight into playing and do whatever you desire. For those who may need help setting up and getting started, assuming that you are whitelisted, this is the guide for you! 
+For those of you who are stepping into a Minecraft world for the first time, things may seem difficult or overwhelming. For <span class="greened">XeneCraft</span>, you can jump straight into playing and do whatever you desire. For those who may need help setting up and getting started, <strong>assuming that you are whitelisted</strong>, this is the guide for you! 
 
 <ol>
 <li>From the Minecraft start screen, click on the Multiplayer button and then click "Add Server."</li>

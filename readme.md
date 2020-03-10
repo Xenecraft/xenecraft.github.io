@@ -18,6 +18,7 @@ Changelog
 * Added an updated joining guide
 * Archives area for really old pages (note to future me: change a thing in the config.yml and create associated directory to recognize it)
 * Some responsiveness redesign (especially on mobile)
+* [Bugs] Landing Area responsiveness issues with Kindle Fire sizing
 
 ### 2020.02.20 
 * Much better font face for proper seeming website

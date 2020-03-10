@@ -86,10 +86,13 @@ body{
 	&:nth-child(n){
 		display:block !important
 	}
-	.landing-buttons.btn:nth-child(n){
-		margin-right: 50px;
+	.landing-buttons{
+		.btn{
+			margin-right: 5px;
+			margin-bottom: 5px !important;
+		}
 	}
-	@media (max-width: $sm){
+	@media (max-width: $md){
 		padding:8%;
 	}	
 }
@@ -112,7 +115,7 @@ header.site-header{
 	border-color: $x-black !important;
 }
 
-@media (min-width: $sm){
+@media (min-width: $md){
 	.sidebar{
 		border-left: $x-black solid 1px;
 	}
@@ -159,6 +162,10 @@ header.site-header{
 		margin-left: auto;
 		margin-right: auto;
 		display: block;
+		@media(max-width: $sm){
+			padding: 0px 5px 0px 5px;
+			max-width: 25vw;
+		}
 	}
 }
 

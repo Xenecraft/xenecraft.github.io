@@ -1,36 +1,51 @@
 <h2>Server Info:</h2>
 <table class="table">
-	<tr><td><strong>IP:</strong></td><td class="xeneIp"></td></tr>
-	<tr><td><strong>Version:</strong></td><td id="version"></td></tr>
-	<tr><td><strong>Players:</strong></td><td id="players"></td></tr>
-	<tr><td><strong>Whitelist:</strong></td><td class="greened">ON</td></tr>
+  <tr>
+    <td><strong>IP:</strong></td>
+    <td class="xeneIp"></td>
+  </tr>
+  <tr>
+    <td><strong>Version:</strong></td>
+    <td id="version"></td>
+  </tr>
+  <tr>
+    <td><strong>Players:</strong></td>
+    <td id="players"></td>
+  </tr>
+  <tr>
+    <td><strong>Whitelist:</strong></td>
+    <td class="greened">ON</td>
+  </tr>
 </table>
 <div class="text-center">
-	<a id="server" class="btn">Currently:</a><br>
+  <a id="server" class="btn">Currently:</a><br>
 </div>
-
 <br>
-<a href="//minecraftservers.org/server/247507" target="_blank"><img class="maxed-width img-responsive" src="//status.minecraftservers.org/classic/247507.png" alt="XeneCraft Minecraft server"/></a>
-
-<br><br>
-<h2>Recent Posts:</h1>
+<a href="//minecraftservers.org/server/247507" target="_blank"><img class="maxed-width img-responsive" src="//status.minecraftservers.org/classic/247507.png" alt="XeneCraft Minecraft server" /></a>
+<br>
+<h2>Recent Posts:</h2>
 <ul class="squared">
-{% for post in site.posts %}
-	<li><a class="blackened" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endfor %}
+  {% for post in site.posts %}
+  <li><a class="blackened" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
 <br>
-
-<div class="fb-page maxed-width" data-href="https://www.facebook.com/xenecraft" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/xenecraft"><a href="https://www.facebook.com/xenecraft">XeneCraft</a></blockquote></div></div>
-<br><br>
-
-<a class="twitter-timeline" href="https://twitter.com/XeneCraft?ref_src=twsrc%5Etfw">Tweets by XeneCraft</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<br><br>
-<h2>Archived:</h1>
+<h2>Archived:</h2>
 <ul class="squared">
-{% for archive in site.archives %}
+  {% for archive in site.archives %}
   <li><a class="blackened" href="{{ archive.url | prepend: site.baseurl }}">{{ archive.title }}</a></li>
-{% endfor %}
+  {% endfor %}
 </ul>
+<br>
+<div class="fb-page maxed-width" data-href="https://www.facebook.com/xenecraft" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+  <div class="fb-xfbml-parse-ignore">
+    <blockquote cite="https://www.facebook.com/xenecraft"><a href="https://www.facebook.com/xenecraft">XeneCraft</a></blockquote>
+  </div>
+</div>
+<br>
+<br>
+<div class="twitter-area">
+  <a class="twitter-timeline" href="https://twitter.com/XeneCraft?ref_src=twsrc%5Etfw">Tweets by XeneCraft</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 <br>
