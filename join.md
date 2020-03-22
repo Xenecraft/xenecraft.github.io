@@ -14,8 +14,8 @@ For those of you who are stepping into a Minecraft world for the first time, thi
 <img class="img-responsive" src="/images/GS1.jpg" alt="Step 1">
 <li>You should see this screen pop up and simply fill out the information in the "Server Address" with <strong>play.xenecraft.com</strong> the same as in the picture below.</li>
 <img class="img-responsive" src="/images/domain-setup/Server Stuff.png" alt="Step 2">
-<li>Now you can join the server and when you first log in, your will be blooped down into the spawn area. It will likely be a 4-entranced Stone Slabbed building that may is close to a friend's town. Read the rules or more <a href="/about-us">about us!</a></li>
-<li>Once you exit our potentially-weird-spawn building, you may be given a <strong>Wooden Pickaxe</strong> and a <strong>Wooden Sword</strong> to help you on your journey if there are some admins hanging around.</li>
+<li>Now you can join the server and when you first log in, your will be blooped down into the spawn area. It may be a 4-entranced Stone Slabbed building that may is close to a friend's town. Read the rules or more <a href="/about-us">about us!</a></li>
+<li>Once you exit our potentially-weird-spawn building, you MAY be given a <strong>Wooden Pickaxe</strong> and a <strong>Wooden Sword</strong> to help you on your journey if there are some admins hanging around.</li>
 <li>Now you can choose to explore the town, settle around, make some friends, or go further and create your own awesome village. The adventurous choice is yours!</li>
 </ol>
 We look forward to seeing you on our server!<br>
