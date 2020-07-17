@@ -13,6 +13,17 @@ $(document).ready(() => {
   $('[data-target="#post-display-modal"]').on("click", function(item){
     let imageToModal = $(item.target).attr('src');
     $('#post-image').attr('src', imageToModal);
+
+    // Set the modal size to be "dynamic,"" by default the modal that allows users to see the image closer will display at 90% or else we will use the custom width set by the page. If the window size becomes less than a bootstrap lg, then we will also use 90%
+    let modalSize = 90;
+    const largeWidth = 1200; 
+    let windowWidth = $(window).width();
+    if (windowWidth > largeWidth){
+      let modalTargetSize = $(this).attr('data-target-size');
+      if(modalTargetSize)
+        modalSize = modalTargetSize;
+    }
+    $('.modal-fitted').css('width', `${modalSize}%`);
   });
 
 });

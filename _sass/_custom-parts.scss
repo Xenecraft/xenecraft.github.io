@@ -141,7 +141,11 @@ header.site-header{
 }
 
 .modal-fitted{
-	width: 90%;
+	width: auto;
+}
+
+.img-modal{
+	height: 100% !important;
 }
 
 .two-space{
