@@ -5,3 +5,4 @@ serve/*
 server/*
 *Thumbs.db
 .DS_Store
+.jekyll-cache/*
