@@ -140,6 +140,7 @@ header.site-header{
 	max-width: 49%;
 }
 
+/*** Modal Header ***/
 .modal-fitted{
 	width: auto;
 }
@@ -152,12 +153,15 @@ header.site-header{
 	padding-left: 2px;
 }
 
+.custom-modal-padding{
+	padding: 5px !important;
+}
+
 .custom-code{
 	background: #b5b5b5;
 	font-size: 14px;
 	padding: 5px;
 	overflow-x: auto;
-
 }
 
 /*** Team Page ***/

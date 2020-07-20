@@ -18,7 +18,7 @@
   </tr>
 </table>
 <div class="text-center">
-  <a id="server" class="btn">Currently:</a><br>
+  <a id="server" class="btn">Status:</a><br>
 </div>
 <br>
 <a href="//minecraftservers.org/server/247507" target="_blank"><img class="maxed-width img-responsive" src="//status.minecraftservers.org/classic/247507.png" alt="XeneCraft Minecraft server" /></a>
@@ -26,11 +26,11 @@
 <h2>Recent Posts:</h2>
 <ul class="squared">
   {% for post in site.posts %}
-  <li><a class="blackened" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  <li><a class="blackened" href="{{ post.url | prepend: site.baseurl }}">[{{ post.date | date: "%Y.%m.%d" }}] {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 <br>
-<h2>Archived:</h2>
+<h2>Archived Pages:</h2>
 <ul class="squared">
   {% for archive in site.archives %}
   <li><a class="blackened" href="{{ archive.url | prepend: site.baseurl }}">{{ archive.title }}</a></li>
