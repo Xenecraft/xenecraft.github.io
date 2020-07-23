@@ -32,9 +32,9 @@ $(document).ready(() => {
 $.get('https://mcapi.us/server/status?ip=' + xeneServer + '&port=' + xenePort, function(response) {
   if (!response.online) {
     lastOnline = response.last_online;
-    $('#server').append(' Offline').addClass('btn-danger');
+    $('.serverStatus').append(' Offline').addClass('btn-danger');
   } else
-    $('#server').append(' Online').addClass('btn-success');
+    $('.serverStatus').append(' Online').addClass('btn-success');
   version = response.server.name;
   $('#version').append(version);
   playersOn = response.players.now;
