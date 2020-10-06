@@ -1,8 +1,8 @@
 'use strict';
-var xenePort = '25565';
-var xeneServer = 'play.xenecraft.com';
-var xeneFBPageID = '328124197290784';
-var lastOnline, playersOn, playersMax, motd, version;
+const xenePort = '25565';
+const xeneServer = 'play.xenecraft.com';
+const xeneFBPageID = '328124197290784';
+let lastOnline, playersOn, playersMax, motd, version;
 
 // Main Pages anywhere
 $(document).ready(() => {
@@ -45,18 +45,18 @@ $.get('https://mcapi.us/server/status?ip=' + xeneServer + '&port=' + xenePort, f
 });
 
 // Other Pages
-var stdBlocks = ['Stone', 'Grass', 'Dirt', 'Sand', 'Gravel', 'Wood', 'Acacia_Wood', 'Birch_Wood', 'Dark_Oak_Wood', 'Jungle_Wood', 'Spruce_Wood', 'Snow', 'Cactus', 'Netherrack', 'Wool'];
-var stdJoined = [];
-var rareBlocks = ['Clay', 'Soul_Sand', 'Glowstone', 'Moss_Stone', 'Sponge'];
-var rareJoined = [];
-var eggChoices = ['Bat', 'Chicken', 'Cow', 'Creeper', 'Enderman', 'Horse', 'Ocelot', 'Pig', 'Skeleton', 'Slime', 'Spider', 'Squid', 'Witch', 'Wolf', 'Zombie', 'Zombie_Pigman'];
-var eggJoined = [];
+const stdBlocks = ['Stone', 'Grass', 'Dirt', 'Sand', 'Gravel', 'Wood', 'Acacia_Wood', 'Birch_Wood', 'Dark_Oak_Wood', 'Jungle_Wood', 'Spruce_Wood', 'Snow', 'Cactus', 'Netherrack', 'Wool'];
+const stdJoined = [];
+const rareBlocks = ['Clay', 'Soul_Sand', 'Glowstone', 'Moss_Stone', 'Sponge'];
+const rareJoined = [];
+const eggChoices = ['Bat', 'Chicken', 'Cow', 'Creeper', 'Enderman', 'Horse', 'Ocelot', 'Pig', 'Skeleton', 'Slime', 'Spider', 'Squid', 'Witch', 'Wolf', 'Zombie', 'Zombie_Pigman'];
+let eggJoined = [];
 
-var blockNameFilter = function(blockName) {
+const blockNameFilter = function(blockName) {
   return blockName.replace(/_/g, ' ');
 };
 
-var exchangePageName = '/exchange-and-contributions/';
+const exchangePageName = '/exchange-and-contributions/';
 if (window.location.pathname === exchangePageName) {
   for (var i = 0; i < stdBlocks.length; i++) {
     stdJoined.push('<tr><td>' + (i + 1) + '</td><td><strong>' + blockNameFilter(stdBlocks[i]) + '</strong></td><td><img class="img-responsive img-limited img-center" src="/images/blocks/' + stdBlocks[i] + '.png"></td></tr>');
@@ -71,9 +71,9 @@ if (window.location.pathname === exchangePageName) {
     eggJoined.push('<tr><td>' + (e + 1) + '</td><td><strong>' + blockNameFilter(eggChoices[e]) + '</strong></td><td><img class="img-responsive img-limited img-center" src="/images/eggs/Grid_Spawn_' + eggChoices[e] + '.png"></td></tr>');
   }
 
-  var standardTemplate = stdJoined.join('');
-  var rareTemplate = rareJoined.join('');
-  var eggTemplate = eggJoined.join('');
+  const standardTemplate = stdJoined.join('');
+  const rareTemplate = rareJoined.join('');
+  const eggTemplate = eggJoined.join('');
   $('#stdHeader').after(standardTemplate);
   $('#rareHeader').after(rareTemplate);
   $('#eggHeader').after(eggTemplate);

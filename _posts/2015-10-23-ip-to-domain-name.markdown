@@ -28,7 +28,7 @@ Now on your Host Records, it's simply a matter of adding a new record. You can s
 <img class="img-responsive" src="/images/domain-setup/Step 5.png" alt="Step 5">
 
 Now, all your players can simply put in whatever you host record you have that is prepended onto the domain name. For XeneCraft, you can use play.xenecraft.com to connect to our server and join the family! If you thought this quick post was helpful, give us a shoutout and let us know if you'd like to see more from the team!<br>
--<a href="//twitter.com/ersgonzo" class="lightSig" target="_blank">light</a>
+-<a href="//twitter.com/ersgonzo" class="lightSig" rel="noopener noreferrer" target="_blank">light</a>
 <br>
 <img class="img-responsive" src="/images/domain-setup/Server Stuff.png" alt="Xenecraft Setting">
 
