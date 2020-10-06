@@ -19,7 +19,7 @@ For those of you who are stepping into a Minecraft world for the first time, thi
 <li>Now you can choose to explore the town, settle around, make some friends, or go further and create your own awesome village. The adventurous choice is yours!</li>
 </ol>
 We look forward to seeing you on our server!<br>
--<a href="//twitter.com/ersgonzo" class="lightSig" target="_blank">light</a>
+-<a href="//twitter.com/ersgonzo" class="lightSig" rel="noopener noreferrer" target="_blank">light</a>
 <img class="img-responsive" src="/images/xc-landing.png">
 <br>
 <img class="img-responsive" src="/images/GS5.jpg" alt="Step 5">

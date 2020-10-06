@@ -22,4 +22,4 @@ For those of you who are stepping into a Minecraft world for the first time, thi
 </ol>
 
 We look forward to seeing you on our server!
--<a href="//twitter.com/ersgonzo" class="lightSig" target="_blank">light</a>
+-<a href="//twitter.com/ersgonzo" class="lightSig" rel="noopener noreferrer" target="_blank">light</a>

@@ -51,7 +51,7 @@ permalink: /meet-our-team/
 	</tr>
 	<tr class="text-center">
 		<td>Jell0Cup aka Jello</td>
-		<td><a href="//twitter.com/ersgonzo" class="lightSig" target="_blank">lightrapid aka Light-kun</a></td>
+		<td><a href="//twitter.com/ersgonzo" class="lightSig" target="_blank" rel="noopener noreferrer">lightrapid aka Light-kun</a></td>
 	</tr>
 </table>
 
