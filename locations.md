@@ -5,7 +5,7 @@ titleShort: Locations
 permalink: /locations/
 ---
 
-To get a better feel of our server, here are some places in from our world courtesy of <a href="http://princess-jell0.tumblr.com/">Jell0Cup</a> and from some of our own players! Hop in and check out the many other creations our players have made in various areas of the server! 
+To get a better feel of our server, here are some places in from our world courtesy of Jell0Cup and from some of our own players! Hop in and check out the many other creations our players have made in various areas of the server! 
 
 Click through the carousel below or wait for it to slide on through the various locations!
 
